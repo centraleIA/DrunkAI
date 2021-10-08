@@ -11,3 +11,11 @@ Since the dataset is terribly small and we have way more pictures of drunk peopl
 Anyway, there are lots of things that need to be improved, I just need time.
 
 Hugs and kisses to all Central-IA-ns. Good luck on your studies.
+
+### Things to do:
+
+- Change the code to not use my personal drive.
+- Create a better dataset
+- Make the detection better, using the annotated dataset, maybe new models (or just use the rest of the haar cascade to classify eyes and etc...)
+- Make the post-processing deleted false-detections
+- Organize and comment the code.
